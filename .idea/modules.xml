@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CompanywWseDsa/CompanywWseDsa.iml" filepath="$PROJECT_DIR$/CompanywWseDsa/CompanywWseDsa.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ReUnite.iml" filepath="$PROJECT_DIR$/.idea/ReUnite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databases/databases.iml" filepath="$PROJECT_DIR$/databases/databases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lld/lld.iml" filepath="$PROJECT_DIR$/lld/lld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiThreading/multiThreading.iml" filepath="$PROJECT_DIR$/multiThreading/multiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problemSolving/problemSolving.iml" filepath="$PROJECT_DIR$/problemSolving/problemSolving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/shallowAndDeepCopy/shallowAndDeepCopy.iml" filepath="$PROJECT_DIR$/java/shallowAndDeepCopy/shallowAndDeepCopy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lld/solidPrincipal/solidPrincipal.iml" filepath="$PROJECT_DIR$/lld/solidPrincipal/solidPrincipal.iml" />
       <module fileurl="file://$PROJECT_DIR$/systemDesign/systemDesign.iml" filepath="$PROJECT_DIR$/systemDesign/systemDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/upiArchitecture/upiArchitecture.iml" filepath="$PROJECT_DIR$/upiArchitecture/upiArchitecture.iml" />
     </modules>
   </component>
 </project>

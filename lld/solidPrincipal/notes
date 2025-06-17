@@ -1,0 +1,10 @@
+
+| Principle | Full Form                       | Purpose                                     |
+| --------- | ------------------------------- | ------------------------------------------- |
+| **S**     | Single Responsibility Principle | One class → one job                         |
+| **O**     | Open/Closed Principle           | Open for extension, closed for modification |
+| **L**     | Liskov Substitution Principle   | Child class should behave like parent       |
+| **I**     | Interface Segregation Principle | No forced implementation of unused methods  |
+| **D**     | Dependency Inversion Principle  | Depend on abstractions, not concretions     |
+
+Single Responsibility Principle (SRP)
